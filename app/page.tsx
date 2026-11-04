@@ -137,7 +137,7 @@ export default function Home() {
               target="_blank"
               rel="noopener noreferrer"
             >
-              Visitar Nodo Serrano <span aria-hidden="true">↗</span>
+              Visitar Nono Serrano <span aria-hidden="true">↗</span>
             </a>
             <a
               href="https://whatsapp.com/channel/0029VbAvlX0Gk1FnUUeDII3g"
