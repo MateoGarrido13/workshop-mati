@@ -28,7 +28,7 @@ export default function Home() {
             <p className="eyebrow">
               <span aria-hidden="true" /> HackerSpace
             </p>
-            <h1 id="titulo">HackerSpace  Serrano</h1>
+            <h1 id="titulo">HackerSpace  Serrano : The future of Tandil</h1>
             <p className="hero-description">
               Un espacio para aprender haciendo. Tecnología, herramientas y
               conocimiento compartido desde Tandil.
@@ -137,7 +137,7 @@ export default function Home() {
               target="_blank"
               rel="noopener noreferrer"
             >
-              Visitar Nodo Serrano <span aria-hidden="true">↗</span>
+              Visitar Nono Serrano <span aria-hidden="true">↗</span>
             </a>
             <a
               href="https://whatsapp.com/channel/0029VbAvlX0Gk1FnUUeDII3g"
